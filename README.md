@@ -6,7 +6,7 @@
 
 This experiment consists of a set of simple Python problems for beginners that have been answered in a Jupyter Notebook. It is intended to assist you in practicing basic programming ideas, including list unpacking, string manipulation, and basic algorithms.
 
-🎯 Focus of this Project:
+🎯 Focus of this Experiment:
 
 -Strengthening Python fundamentals.
 
