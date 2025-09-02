@@ -70,6 +70,7 @@ s2.replace("grin",":D")
 'You make me :) and :D'
 
 
+
 s3 = "You make me sad and mad at the same time"
 
 s3
