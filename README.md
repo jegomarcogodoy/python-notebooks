@@ -82,7 +82,7 @@ s4 = s3.replace("sad", ":((")
 
 s4.replace("mad", ">:(")
 
-RESULT:
+📊 RESULT:
 
 'You make me :(( and >:( at the same time'
 
