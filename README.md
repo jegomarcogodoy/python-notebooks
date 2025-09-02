@@ -25,7 +25,7 @@ as a string, replace the words smile, grin, sad, and mad with their correspondin
 3. UNPACKING LIST PROBLEM: Unpack the list writeyourcodehere into three variables, being first,
 middle, and last, with middle being everything in between the first and last element. Then print all three
 variables.
-
+______________________________________________________________________________________________________________
 SOLUTION FOR THE PROBLEM:
 
 1.  CODE:
@@ -50,7 +50,7 @@ The code takes a word and puts its letters in the correct order.
 The word "hello" becomes "ehllo" after the letters are sorted, for instance.
 The word "hacker" also becomes "acehkr" when the letters are switched around.
 
-
+________________________________________________________________________________________________________________________________
 2. CODE:
 
 s1 = "You make me smile and grin"
@@ -88,7 +88,7 @@ RESULT:
 EXPLANATION:
 The code illustrates how to use the replace function to swap out particular words in a statement with emoticons. The first example substitutes ":)" for "smile" and ":D" for "grin" in the statement "You make me smile and grin," producing "You make me :) and :D." "You make me :(( and >:( at the same time" is the ultimate result of changing the statement "You make me sad and mad at the same time" in the second example by replacing "sad" with ":(( " and "mad" with ">:(". This demonstrates how replace can be used to change the meaning or style of text by replacing words with emoticons or symbols.
 
-
+______________________________________________________________________________________________________________________________________
 3. CODE:
 
 writeyourcodehere = [1, 2, 3, 4, 5, 6]
