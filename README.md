@@ -38,10 +38,18 @@ print(alphabet_soup("hello"))
 
 print(alphabet_soup("hacker"))
 
+RESULT:
+
+ehllo
+
+acehkr
+
+
 EXPLANATION:
 The code takes a word and puts its letters in the correct order.
 The word "hello" becomes "ehllo" after the letters are sorted, for instance.
 The word "hacker" also becomes "acehkr" when the letters are switched around.
+
 
 2. CODE:
 
@@ -56,6 +64,8 @@ s2 = s1.replace("smile",":)")
 
 s2.replace("grin",":D")
 
+RESULT:
+
 'You make me :) and :D'
 
 
@@ -69,10 +79,15 @@ s3
 s4 = s3.replace("sad", ":((")
 
 s4.replace("mad", ">:(")
+
+RESULT:
+
 'You make me :(( and >:( at the same time'
+
 
 EXPLANATION:
 The code illustrates how to use the replace function to swap out particular words in a statement with emoticons. The first example substitutes ":)" for "smile" and ":D" for "grin" in the statement "You make me smile and grin," producing "You make me :) and :D." "You make me :(( and >:( at the same time" is the ultimate result of changing the statement "You make me sad and mad at the same time" in the second example by replacing "sad" with ":(( " and "mad" with ">:(". This demonstrates how replace can be used to change the meaning or style of text by replacing words with emoticons or symbols.
+
 
 3. CODE:
 
@@ -95,6 +110,8 @@ print("first: " + str(first))
 print("middle: " + str(middle))
 
 print("last: " + str(last))
+
+RESULT:
 
 first: 1
 
